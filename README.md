@@ -4,7 +4,7 @@ This repository contains codes I used to learn OpenCV, currently the code are a 
 
 - change 'xrange' to 'range'
 - write some required functions to get the code running independently, e.g. get landmarks directly from the pictures instead of txt files in the orginal codes
-- change function naming style to my own
+- change functions and variables naming style to be my own
 - add some print functions to see how the codes are working, may or maynot commented afterwards
 - some addhoc practice while I am learning
 - remove commas which might be generated from C++ codes modification
